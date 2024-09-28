@@ -1,0 +1,1 @@
+A simple, user-friendly calculator application built to perform basic arithmetic operations. This project demonstrates fundamental programming concepts and is ideal for beginners learning how to handle user inputs and outputs, perform calculations
